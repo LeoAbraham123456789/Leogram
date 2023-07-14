@@ -1,2 +1,2 @@
 # Leogram
-A Instagram Clone
+An Instagram Clone
