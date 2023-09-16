@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">733808376382-31cakusuh6uoeqmna63qm99e7qhdk2qb.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">733808376382</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZ8kMgAD-BFtNmXjahM3YiPR3XlrJgpow</string>
+    <string name="google_app_id" translatable="false">1:733808376382:android:c6d0dc24523b556460ef6f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZ8kMgAD-BFtNmXjahM3YiPR3XlrJgpow</string>
+    <string name="google_storage_bucket" translatable="false">leogram-3d794.appspot.com</string>
+    <string name="project_id" translatable="false">leogram-3d794</string>
+</resources>

@@ -1,0 +1,4 @@
+#Fri Sep 15 20:54:19 IST 2023
+base.0=C\:\\Users\\HP\\StudioProjects\\Leogram\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

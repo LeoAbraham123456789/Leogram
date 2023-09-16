@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733808376382",
+    "project_id": "leogram-3d794",
+    "storage_bucket": "leogram-3d794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733808376382:android:c6d0dc24523b556460ef6f",
+        "android_client_info": {
+          "package_name": "com.example.leogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733808376382-31cakusuh6uoeqmna63qm99e7qhdk2qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ8kMgAD-BFtNmXjahM3YiPR3XlrJgpow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733808376382-31cakusuh6uoeqmna63qm99e7qhdk2qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
